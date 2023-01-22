@@ -1,0 +1,10 @@
+name=EPD4in2-EInk-WaveShare
+version=0.0.1
+author=WaveShare
+maintainer=Bartek Szatkowski <bulislaw@linux.com>
+sentence=Curated version of WaveShare's EPD4in2 EInk driver
+paragraph=Curated version of WaveShare's EPD4in2 EInk driver
+category=Display
+url=https://github.com/bulislaw/EPD4in2-EInk-WaveShare
+architectures=*
+depends=-
